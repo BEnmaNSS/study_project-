@@ -34,4 +34,6 @@
                                                  *calculatin TP and TN for both models The quantity of cases that are accurately anticipated to be negative is known as true negatives (TN).
                                                  * trying to Reweighted the models and evaluate them to improve accuracy 
                             
-
+ # 5_Ensembe learning:                           *The idea behind ensemble learning is to leverage the collective wisdom of diverse models to make more accurate predictions than any single 
+                                                 model alone. Ensemble methods are particularly effective when individual models have different strengths and weaknesses,
+                                                 * i have applied GradientBoostingClassifier, Random Forest classifier, and SVM 
